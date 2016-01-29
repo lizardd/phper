@@ -1,4 +1,4 @@
-# 诚聘phper&FED programmer
+# 诚聘PHP&FED programmer
 
 
 工作地址：重庆市沙坪坝 
